@@ -1,0 +1,33 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="refresh" content="0; url=https://google.com" id="meta-refresh">
+    <script>
+        // Список NSFW-ссылок
+        const links = [
+            "https://onlyfans.com/suziestone/trial/nt39ih6edvuedaffkxnpxpt1cmeejg9s",
+            "https://onlyfans.com/violet_dreams69/trial/u5vuyhqmn5pls0bfk0svttorwurnw1gf",
+            "https://onlyfans.com/aberryxx/trial/p56hhdsqigpkjjjdosly0mrligv5rihz",
+            "https://onlyfans.com/mira.yumi/trial/5p3khnoegpdhzhk1wdt85xnlexwhptca"
+        ];
+
+        // Проверка User-Agent
+        const isBot = /bot|facebook|discord|telegram|preview|vkShare|crawler/i.test(navigator.userAgent);
+
+        if (!isBot) {
+            // Редирект на случайную ссылку, если не бот
+            const target = links[Math.floor(Math.random() * links.length)];
+            window.location.href = target;
+        } else {
+            // Если бот — редиректим на безопасную
+            document.getElementById("meta-refresh").setAttribute("content", "0; url=https://google.com");
+        }
+    </script>
+    <title>Redirecting...</title>
+</head>
+<body>
+    <p>Redirecting...</p>
+</body>
+</html>
