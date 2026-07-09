@@ -1,0 +1,24 @@
+<!-- SEO / Favicon — Divine Adult -->
+<title>Services & Cases — Divine Adult</title>
+<meta name="description" content="Divine Adult is a digital growth and traffic ecosystem for adult creators: Reddit traffic, Instagram growth, creator strategy and operational support.">
+<link rel="canonical" href="https://divineadult.com/services.html">
+<meta name="theme-color" content="#00ff99">
+<meta name="application-name" content="Divine Adult">
+<meta name="msapplication-TileColor" content="#07120e">
+<meta name="msapplication-TileImage" content="/android-chrome-192x192.png">
+<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="/favicon.svg" type="image/svg+xml">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="manifest" href="/site.webmanifest">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Divine Adult">
+<meta property="og:title" content="Services & Cases — Divine Adult">
+<meta property="og:description" content="Traffic, growth strategy and operational support for adult creators and creator teams.">
+<meta property="og:url" content="https://divineadult.com/">
+<meta property="og:image" content="https://divineadult.com/android-chrome-512x512.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Services & Cases — Divine Adult">
+<meta name="twitter:description" content="Traffic, growth strategy and operational support for adult creators and creator teams.">
+<meta name="twitter:image" content="https://divineadult.com/android-chrome-512x512.png">

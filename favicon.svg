@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#07120e"/>
+  <path d="M112 318 L164 188 L232 318 L256 136 L280 318 L348 188 L400 318" fill="none" stroke="#00ff99" stroke-width="34" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M132 366 H380" stroke="#00ff99" stroke-width="42" stroke-linecap="round"/>
+  <text x="256" y="452" text-anchor="middle" font-family="Arial, sans-serif" font-size="62" font-weight="700" fill="#f5fffa">DIVINE</text>
+</svg>
